@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&width=325&lines=Hi+👋,+I'm+Damian+Jankowski" alt="Hi 👋, I'm Damian Jankowski">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=2000&width=325&lines=Hi+%F0%9F%91%8B%2C+I'm+Damian+Jankowski" alt="Hi 👋, I'm Damian Jankowski"/>
 </div>
 
 ---
