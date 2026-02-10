@@ -39,7 +39,7 @@
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=pingwin02&theme=dark&count_private=true&hide_border=true" alt="pingwin02" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingwin02&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pingwin02" /><br>
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=pingwin02&theme=dark&count_private=true&hide_border=true&show_icons=true" alt="pingwin02" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pingwin02&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="pingwin02" /><br>
   <img height="150" src="https://github-readme-streak-stats-eight.vercel.app/?user=pingwin02&theme=dark&date_format=j%20M%5B%20Y%5D&hide_border=true" alt="pingwin02" />
 </p>
