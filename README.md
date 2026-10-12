@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">A student of Informatics at the Gdańsk University of Technology</h3>
+<h3 align="center">Software Engineer | MSc in Computer Science</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/jankowskid" target="_blank">
